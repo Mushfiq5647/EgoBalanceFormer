@@ -1,0 +1,6 @@
+paper/
+tmp/
+log/
+__pycache__/
+*.pyc
+calibration/subject_transforms/
